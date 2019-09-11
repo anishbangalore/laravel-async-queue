@@ -1,5 +1,5 @@
-# Laravel 5 Async Queue Driver
-
+# Laravel 5.5 to 6.0 Async Queue Driver 
+(This repository is a clone from https://github.com/barryvdh/laravel-async-queue)
 ## Push a function/closure to the background.
 
 
@@ -17,11 +17,11 @@ This package is more usable as an alternative for running incidental tasks in th
 
 Require the latest version of this package with Composer
 
-    composer require barryvdh/laravel-async-queue
+    composer require anishbangalore/laravel-async-queue
 
 Add the Service Provider to the providers array in config/app.php
 
-    Barryvdh\Queue\AsyncServiceProvider::class,
+    Anishbangalore\Queue\AsyncServiceProvider::class,
 
 You need to create the migration table for queues and run it.
 
