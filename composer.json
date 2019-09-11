@@ -21,9 +21,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "master-dev": "0.1.0-dev"
-        },
         "laravel": {
             "providers": [
                 "Anishbangalore\\Queue\\AsyncServiceProvider"
