@@ -2,8 +2,8 @@
 
 namespace Anishbangalore\Queue;
 
-use Barryvdh\Queue\Connectors\AsyncConnector;
-use Barryvdh\Queue\Console\AsyncCommand;
+use Anishbangalore\Queue\Connectors\AsyncConnector;
+use Anishbangalore\Queue\Console\AsyncCommand;
 use Illuminate\Support\ServiceProvider;
 
 class AsyncServiceProvider extends ServiceProvider
