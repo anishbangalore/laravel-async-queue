@@ -1,8 +1,8 @@
 <?php
 
-namespace Barryvdh\Queue\Console;
+namespace Anishbangalore\Queue\Console;
 
-use Barryvdh\Queue\AsyncQueue;
+use Anishbangalore\Queue\AsyncQueue;
 use Illuminate\Console\Command;
 use Illuminate\Queue\Worker;
 use Illuminate\Queue\WorkerOptions;

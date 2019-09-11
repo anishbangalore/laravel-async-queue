@@ -1,6 +1,6 @@
 <?php
 
-namespace Barryvdh\Queue;
+namespace Anishbangalore\Queue;
 
 use Barryvdh\Queue\Connectors\AsyncConnector;
 use Barryvdh\Queue\Console\AsyncCommand;

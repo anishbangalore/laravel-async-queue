@@ -1,8 +1,8 @@
 <?php
 
-namespace Barryvdh\Queue\Connectors;
+namespace Anishbangalore\Queue\Connectors;
 
-use Barryvdh\Queue\AsyncQueue;
+use Anishbangalore\Queue\AsyncQueue;
 use Illuminate\Queue\Connectors\DatabaseConnector;
 use Illuminate\Support\Arr;
 
