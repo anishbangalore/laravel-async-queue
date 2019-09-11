@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-anish": "dev-anish"
+            "dev-anish": "0.7.3"
         },
         "laravel": {
             "providers": [
